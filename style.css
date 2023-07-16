@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(208, 255, 255);
+color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 5px dashed black;
+}
+.jk{
+   color:black ;
+}
